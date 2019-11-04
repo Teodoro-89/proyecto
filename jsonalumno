@@ -1,0 +1,16 @@
+{
+    "degree": [
+        {
+            "id": 1,
+            "name": "GIEI"
+        },
+        {
+            "id": 2,
+            "name": "GIM"
+        },
+        {
+            "id": 3,
+            "name": "GM"
+        }
+    ]
+}
